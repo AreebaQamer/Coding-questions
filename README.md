@@ -69,4 +69,5 @@ Return to your fork on GitHub, and refresh the page. You may see a highlighted a
 # Create the pull request
 
 Before submitting the pull request, you first need to describe the changes you made .
+git commit - "hello"
 
